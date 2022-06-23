@@ -35,59 +35,59 @@ export const SIZES = {
 };
 
 export const FONTS = {
-  navTitle: { fontFamily: "CarmenSans-Thin", fontSize: SIZES.navTitle },
+  navTitle: { fontFamily: "sans-serif", fontSize: SIZES.navTitle },
   largeTitleBold: {
-    fontFamily: "CarmenSans-SemiBold",
+    fontFamily: "sans-serif",
     fontSize: SIZES.h2,
     fontWeight: "bold",
   },
   h1: {
-    fontFamily: "CarmenSans-SemiBold",
+    fontFamily: "sans-serif",
     fontSize: SIZES.h1,
     fontWeight: "bold",
     lineHeight: 36,
   },
   h2: {
-    fontFamily: "CarmenSans-SemiBold",
+    fontFamily: "sans-serif",
     fontSize: SIZES.h2,
     fontWeight: "bold",
     lineHeight: 30,
   },
   h3: {
-    fontFamily: "CarmenSans-SemiBold",
+    fontFamily: "sans-serif",
     fontSize: SIZES.h3,
     fontWeight: "bold",
     lineHeight: 22,
   },
   h4: {
-    fontFamily: "CarmenSans-SemiBold",
+    fontFamily: "sans-serif",
     fontSize: SIZES.h4,
     fontWeight: "bold",
     lineHeight: 22,
   },
-  h5: { fontFamily: "CarmenSans-SemiBold", fontSize: SIZES.h5, lineHeight: 22 },
+  h5: { fontFamily: "sans-serif", fontSize: SIZES.h5, lineHeight: 22 },
   body1: {
-    fontFamily: "CarmenSans-Regular",
+    fontFamily: "sans-serif",
     fontSize: SIZES.body1,
     lineHeight: 36,
   },
   body2: {
-    fontFamily: "CarmenSans-Regular",
+    fontFamily: "sans-serif",
     fontSize: SIZES.body2,
     lineHeight: 30,
   },
   body3: {
-    fontFamily: "CarmenSans-Regular",
+    fontFamily: "sans-serif",
     fontSize: SIZES.body3,
     lineHeight: 22,
   },
   body4: {
-    fontFamily: "CarmenSans-Regular",
+    fontFamily: "sans-serif",
     fontSize: SIZES.body4,
     lineHeight: 22,
   },
   body5: {
-    fontFamily: "CarmenSans-Regular",
+    fontFamily: "sans-serif",
     fontSize: SIZES.body5,
     lineHeight: 22,
   },
